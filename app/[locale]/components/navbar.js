@@ -14,11 +14,11 @@ export default function Navbar(){
             <label htmlFor="check" className="checkbtn">
                 <svg fill="white" className="md:hidden cursor-pointer text-3xl h-12 w-14 text-center pt-1.5 text-white" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg>
             </label>
-            <div className="navbar transition-all flex text-xl flex-col w-screen fixed top-12 h-screen bg-[#212346a1] right-full md:flex-row md:static md:h-12 md:w-auto md:transition-none">
-                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#212946a1] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#aboutme">{t('aboutMe')}</a>
-                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#212946a1] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#experience">{t('experience')}</a>
-                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#212946a1] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#projects">{t('projects')}</a>
-                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#212946a1] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#skills">{t('skills')}</a>
+            <div className="navbar transition-all flex text-xl flex-col w-screen fixed top-12 h-screen bg-[#1B1C1E] right-full md:flex-row md:static md:h-12 md:w-auto md:transition-none">
+                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#2A2E37] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#aboutme">{t('aboutMe')}</a>
+                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#2A2E37] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#experience">{t('experience')}</a>
+                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#2A2E37] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#projects">{t('projects')}</a>
+                <a className="my-8 h-[15vh] py-[6vh] pl-auto text-center inline-block hover:bg-[#2A2E37] md:px-4 md:pt-[8px] md:mx-1 md:h-12 md:m-0 md:h-12 pb-0" href="#skills">{t('skills')}</a>
             </div>
         </nav>
     </header>

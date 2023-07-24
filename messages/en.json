@@ -4,7 +4,7 @@
     },
     "navbar":{
         "locale":"es",
-        "lg":"ES",
+        "lg":"EN",
         "aboutMe":"About Me",
         "experience":"Experience",
         "projects":"Projects",
@@ -17,7 +17,8 @@
         "artist":"Artist",
         "3dmodeler":"3D Modeler",
         "aboutMe":"Developer passionate about frontend development, focused on finding the perfect combination of technical eficiency and user experience.\n I Have passions in the art and 3d modeling as hobbys along with with my professional career.",
-        "cv":"Download CV"
+        "cv":"Download CV",
+        "wip":"WORK IN PROGRESS!!"
     },
     "footer":{
         "yo":"Contacts",

@@ -4,7 +4,7 @@
     },
     "navbar":{
         "locale":"en",
-        "lg":"EN",
+        "lg":"ES",
         "aboutMe":"Sobre Mi",
         "experience":"Experiencia",
         "projects":"Projectos",
@@ -17,7 +17,8 @@
         "artist":"Artista",
         "3dmodeler":"Modelador 3d",
         "aboutMe":"Desarrollador apasionado por el desarrollo front-end, centrado en encontrar la perfecta combinacion entre eficiencia tecnica y experienci para el usuario.\nTengo pasatiempos en el arte y modelaje 3d a la par de mi Carrera profesional.",
-        "cv":"Descarga mi CV"
+        "cv":"Descarga mi CV",
+        "wip":"TRABAJO EN PROGRESO!!"
     },
     "footer":{
         "yo":"Contactos",
