@@ -1,0 +1,28 @@
+{
+    "Index": {
+        "title": "Hola mundo"
+    },
+    "navbar":{
+        "locale":"en",
+        "lg":"EN",
+        "aboutMe":"Sobre Mi",
+        "experience":"Experiencia",
+        "projects":"Projectos",
+        "skills":"Habilidades"
+    },
+    "aboutMe":{
+        "iam":"Darikson Ochoa, un ",
+        "developer":"Desarrolllador",
+        "gamer":"Gamer",
+        "artist":"Artista",
+        "3dmodeler":"Modelador 3d",
+        "aboutMe":"Desarrollador apasionado por el desarrollo front-end, centrado en encontrar la perfecta combinacion entre eficiencia tecnica y experienci para el usuario.\nTengo pasatiempos en el arte y modelaje 3d a la par de mi Carrera profesional.",
+        "cv":"Descarga mi CV"
+    },
+    "footer":{
+        "yo":"Contactos",
+        "soy":"Desarrollador de Software centrado en la perfeccion entre experiencia de usuario y eficiencia",
+        "about":"Acerca de Mi",
+        "made":"Página hecha en NextJs 13 con internacionalización"
+    }
+}

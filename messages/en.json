@@ -1,0 +1,28 @@
+{
+    "Index": {
+        "title": "Hello world!"
+    },
+    "navbar":{
+        "locale":"es",
+        "lg":"ES",
+        "aboutMe":"About Me",
+        "experience":"Experience",
+        "projects":"Projects",
+        "skills":"Skills"
+    },
+    "aboutMe":{
+        "iam":"Darikson Ochoa, a",
+        "developer":"Developer",
+        "gamer":"Gamer",
+        "artist":"Artist",
+        "3dmodeler":"3D Modeler",
+        "aboutMe":"Developer passionate about frontend development, focused on finding the perfect combination of technical eficiency and user experience.\n I Have passions in the art and 3d modeling as hobbys along with with my professional career.",
+        "cv":"Download CV"
+    },
+    "footer":{
+        "yo":"Contacts",
+        "soy":"Software developer focused on the perfection between user experience and efficiency",
+        "about":"About Me",
+        "made":"Web Page made on NextJs 13 with Internationalization"
+    }
+}
