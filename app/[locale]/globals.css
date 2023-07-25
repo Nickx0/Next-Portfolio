@@ -7,6 +7,9 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -141,5 +144,11 @@ body {
       grid-template-columns: repeat(1,1fr);
       grid-gap:30px;
       padding: 35px 0px;
+  }
+  @keyframes moveUp {
+    from {top:0%;}
+    to{
+        top: -460%;
+    }
   }
 }
