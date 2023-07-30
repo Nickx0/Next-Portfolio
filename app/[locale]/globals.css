@@ -44,6 +44,7 @@ body {
 }
 #check:checked ~ .navbar{
   right: 0px;
+  opacity: 0.8;
 }
 ::-webkit-scrollbar{
   width: 0.6em;
